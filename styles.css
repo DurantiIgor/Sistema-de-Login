@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(46, 66, 66);
+    text-align: center;
+}
+
+h2{    
+    text-align: center;
+    color: white;
+    display: inline-block;
+    border-left: 3.5px solid rgb(255, 255, 255);
+    border-top: 3.5px solid rgb(255, 255, 255);
+    border-right: 3.5px solid rgb(255, 255, 255);
+    border-bottom: 3.5px solid rgb(255, 255, 255);
+    background: rgb(52, 66, 66);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+input{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    display: inline-block;
+    border-left: 3.5px solid rgb(255, 255, 255);
+    border-top: 3.5px solid rgb(255, 255, 255);
+    border-right: 3.5px solid rgb(255, 255, 255);
+    border-bottom: 3.5px solid rgb(255, 255, 255);
+    background: rgb(52, 66, 66);
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 7px;
+    padding: 5px;  
+}
+
+input:hover{
+    text-align: center;
+    transition: 0.4s;
+    color: white;
+    display: inline-block;
+    border-left: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    background: rgb(55, 80, 80);
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 10px;
+}
+
+button{
+    text-align: center;
+    color: white;
+    display: inline-block;
+    border-left: 3.5px solid rgb(255, 255, 255);
+    border-top: 3.5px solid rgb(255, 255, 255);
+    border-right: 3.5px solid rgb(255, 255, 255);
+    border-bottom: 3.5px solid rgb(255, 255, 255);
+    background: rgb(52, 66, 66);
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    text-align: center;
+    transition: 0.7s;
+    color: white;
+    display: inline-block;
+    border-left: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    background: rgb(52, 66, 66);
+    border-radius: 10px;
+    padding: 13px;
+}
